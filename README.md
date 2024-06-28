@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Projects related to GenAI,DataScience,LLMs.
 - 📫 How to reach me ...
   email - harsh015raut@gmail.com
-- ⚡ Fun fact: ...
+
 
 <!---
 Harsh015raut/Harsh015raut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
