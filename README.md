@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harsh015raut
 - 👀 I’m interested in Exploring Data
-- 🌱 I’m currently learning DL,NLP
+- 🌱 I’m currently learning ML,DL,NLP
 - 💞️ I’m looking to collaborate on Projects related to GenAI,DataScience,LLMs.
 - 📫 How to reach me ...
   email - harsh015raut@gmail.com
