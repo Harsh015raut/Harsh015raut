@@ -33,7 +33,6 @@ I'm a **Data Scientist** passionate about transforming data into actionable insi
 
 **Languages & Core:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
 **Data Science & ML:**  
