@@ -79,10 +79,10 @@ print(f"💭 Motto: {me.philosophy()}")
 
 | 🌟 Philosophy | 💡 Meaning |
 |--------------|-----------|
-| **"AI is not replacing developers—it's empowering them!"** | 🚀 Embrace the AI revolution |
-| **"Every bug is a feature waiting to be discovered!"** | 🔍 Growth mindset in action |
-| **"Data tells stories, AI brings them to life"** | 📊 The power of intelligent systems |
-| **"Build for impact, code for elegance"** | 💎 Quality over quantity |
+| **"AI is empowering Developers!"** |  Embrace the AI revolution |
+| **"Every bug is a feature waiting to be discovered!"** |  Growth mindset in action |
+| **"Data tells stories, AI brings them to life"** |  The power of intelligent systems |
+| **"Build for impact, code for elegance"** |  Quality over quantity |
 
 </div>
 
