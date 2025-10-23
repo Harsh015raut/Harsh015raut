@@ -1,180 +1,351 @@
-# 👨‍💻 Harsh Raut
+<div align="center">
+  
+# 👨‍💻 Harsh Raut | Data Scientist & AI Innovator
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+Science+%7C+GenAI+%7C+ML+Engineer;Transforming+Data+into+Intelligence;Building+the+Future+with+AI" alt="Typing SVG" />
+
+</div>
+
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-harsh015raut%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harsh015raut@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-raut)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harsh015raut)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Harsh Raut"
+        self.role = "Data Scientist & GenAI Developer"
+        self.location = "Pune, Maharashtra, India 🇮🇳"
+        self.passion = "Transforming data into actionable insights"
+        self.current_focus = ["Generative AI", "LLMs", "MLOps"]
+        self.motto = "Data tells stories, AI brings them to life"
+    
+    def say_hi(self):
+        print("Let's build intelligent systems together!")
+
+me = DataScientist()
+me.say_hi()
 ```
-name: "Harsh Raut"
-role: "Data Scientist & AI Innovator"
-location: "Pune, Maharashtra, India 🇮🇳"
-passion: "Transforming Data into Intelligence"
-specialization: "Machine Learning, Deep Learning, NLP & Generative AI"
-```
+
+### 💡 What I Do
+
+I'm passionate about **transforming data into actionable insights** and building **intelligent AI systems**. Currently exploring the frontiers of **Generative AI** and **Large Language Models** to create innovative solutions that make a real-world impact.
 
 ---
 
-## 🎯 About Me
+## 🛠️ Tech Stack & Expertise
 
-I'm a data science enthusiast passionate about building intelligent systems that solve real-world problems. With expertise in machine learning, deep learning, and natural language processing, I specialize in leveraging data to create actionable insights and innovative AI solutions. I'm driven by the intersection of data science and generative AI, constantly exploring ways to push the boundaries of what's possible.
+<div align="center">
 
-**Philosophy:** _"Data is the new oil, but insights are the engine that drives innovation!"_
+### 🤖 AI & Machine Learning
 
----
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Expert-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-Advanced-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-## 🚀 Current Focus Areas
+### 🧠 Generative AI & LLMs 🔥 *Trending & Core Expertise*
 
-- 🤖 **Generative AI & Large Language Models (LLMs)** - Building applications with cutting-edge AI models
-- 📊 **Advanced Machine Learning** - From classic algorithms to ensemble methods and AutoML
-- 🧠 **Deep Learning & Neural Networks** - CNNs, RNNs, Transformers, and attention mechanisms
-- 💬 **Natural Language Processing** - Text analysis, sentiment analysis, and language understanding
-- 📈 **Data Analysis & Visualization** - Extracting insights and telling data stories
-- 🔄 **RAG & AI Workflows** - Retrieval-Augmented Generation and multi-agent systems
+![LangChain](https://img.shields.io/badge/LangChain-Expert-00D9FF?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-Advanced-6366F1?style=for-the-badge&logo=graphql&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini_AI-Advanced-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-Intermediate-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-Advanced-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-Expert-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
+![Vector DBs](https://img.shields.io/badge/Vector_DBs-Advanced-4ECDC4?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-Expert-FFE66D?style=for-the-badge&logo=openai&logoColor=black)
 
----
+### 📊 Data Science & Analytics
 
-## 💻 Tech Stack
-
-### **Languages**
-![Python](https://img.shields.io/badge/Python-Expert-3776ab?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Advanced-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### **Data Science & ML Libraries**
-| TensorFlow | PyTorch | Scikit-Learn | Pandas | NumPy | Matplotlib |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| ![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Advanced-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-Expert-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-Advanced-013243?style=for-the-badge&logo=numpy&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-Advanced-11557c?style=for-the-badge) |
-
-### **NLP & GenAI Tools**
-| LangChain | Hugging Face | OpenAI | NLTK | Spacy | Transformers |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| ![LangChain](https://img.shields.io/badge/LangChain-Expert-1C3C3C?style=for-the-badge) | ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Advanced-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) | ![OpenAI](https://img.shields.io/badge/OpenAI%20API-Advanced-412991?style=for-the-badge&logo=openai&logoColor=white) | ![NLTK](https://img.shields.io/badge/NLTK-Advanced-0066CC?style=for-the-badge) | ![Spacy](https://img.shields.io/badge/Spacy-Advanced-09A3D5?style=for-the-badge) | ![Transformers](https://img.shields.io/badge/Transformers-Advanced-FFD21E?style=for-the-badge) |
-
-### **Data Visualization & Analytics**
+![Pandas](https://img.shields.io/badge/Pandas-Expert-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Expert-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Advanced-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-Advanced-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-Advanced-0C55A3?style=for-the-badge)
-![Tableau](https://img.shields.io/badge/Tableau-Intermediate-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-### **Databases & Tools**
-| MySQL | MongoDB | PostgreSQL | SQLite |
-|:---:|:---:|:---:|:---:|
-| ![MySQL](https://img.shields.io/badge/MySQL-Advanced-00758F?style=for-the-badge&logo=mysql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![SQLite](https://img.shields.io/badge/SQLite-Advanced-003B57?style=for-the-badge&logo=sqlite&logoColor=white) |
+### 🗄️ Databases
 
-### **Deployment & Tools**
-![Jupyter](https://img.shields.io/badge/Jupyter-Expert-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-Advanced-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Advanced-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-Expert-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
+### ⚙️ DevOps & Tools
 
-## 📚 Learning Roadmap
+![Git](https://img.shields.io/badge/Git-Expert-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Intermediate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-Advanced-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### **Currently Mastering**
-- 🔥 **Advanced LLM Applications** - Fine-tuning, prompt engineering, and multi-agent systems
-  ![Progress](https://img.shields.io/badge/Progress-85%25-00ff88?style=for-the-badge&logo=progress&logoColor=white)
-
-- 🚀 **Production ML Systems** - MLOps, model deployment, and scaling
-  ![Progress](https://img.shields.io/badge/Progress-75%25-FFD700?style=for-the-badge&logo=progress&logoColor=white)
-
-- 🧠 **Advanced Deep Learning** - Vision Transformers, and state-of-the-art architectures
-  ![Progress](https://img.shields.io/badge/Progress-80%25-00BFFF?style=for-the-badge&logo=progress&logoColor=white)
-
-- 💬 **Advanced NLP** - Semantic search, embeddings, and knowledge graphs
-  ![Progress](https://img.shields.io/badge/Progress-78%25-FFB6C1?style=for-the-badge&logo=progress&logoColor=white)
+</div>
 
 ---
 
-## 🎨 Featured Expertise Areas
+## 🎯 Core Competencies
 
-- **Machine Learning:** Classification, Regression, Clustering, Ensemble Methods, Feature Engineering
-- **Deep Learning:** CNNs for Computer Vision, RNNs/LSTMs, Transformers, Transfer Learning
-- **NLP:** Text preprocessing, Sentiment Analysis, Named Entity Recognition, Language Models
-- **Generative AI:** LLM integration, RAG systems, prompt engineering, AI agents
-- **Data Analysis:** EDA, Statistical Analysis, A/B Testing, Data Storytelling
-- **Model Optimization:** Hyperparameter tuning, Cross-validation, Regularization, Model evaluation
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 📊 Data Science
+- End-to-end ML pipelines
+- Data wrangling & preprocessing
+- Feature engineering
+- Model deployment & monitoring
+- Predictive analytics
+
+</td>
+<td align="center" width="50%">
+
+### 🤖 Generative AI
+- RAG architectures
+- LLM fine-tuning
+- Multi-agent systems
+- Prompt engineering
+- Langchain & LangGraph
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🧠 Deep Learning
+- Neural networks (ANN, CNN, RNN)
+- Sentiment analysis
+- NLP applications
+- Computer vision
+- Transfer learning
+
+</td>
+<td align="center" width="50%">
+
+### 🔍 ML Applications
+- Customer churn prediction
+- Price prediction models
+- Classification systems
+- Credit risk assessment
+- Time series forecasting
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 Key Achievements
+## 🌟 Featured Projects
 
-- ✨ Built end-to-end ML pipelines from data collection to production deployment
-- 📈 Achieved 90%+ accuracy on multiple classification tasks using ensemble methods
-- 🤖 Developed NLP applications for real-world text analysis and sentiment detection
-- 💡 Created innovative solutions using transformer models and LLMs
-- 🔍 Strong foundation in exploratory data analysis with actionable insights
+### 🚀 Generative AI Projects
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🔷 [Gemini Applications](https://github.com/Harsh015raut/Gemini-Applications)
+Production-ready applications leveraging Google's Gemini AI for real-world use cases.
+
+**Tech Stack:** `Gemini API` `Python` `Streamlit`
+
+</td>
+<td width="50%">
+
+#### 🌐 [LangGraph Tutorial Projects](https://github.com/Harsh015raut/Langgraph-Tutorial-Projects)
+Advanced LangGraph implementations showcasing multi-agent workflows and complex AI systems.
+
+**Tech Stack:** `LangGraph` `LangChain` `Python`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### ⛓️ [LangChain Tutorials](https://github.com/Harsh015raut/Langchain-Tutorials-)
+Comprehensive collection of LangChain projects demonstrating RAG, agents, and LLM applications.
+
+**Tech Stack:** `LangChain` `Vector DBs` `OpenAI`
+
+</td>
+<td width="50%">
+
+#### 🗣️ [TalkLingo-Prod](https://github.com/Harsh015raut/TalkLingo-Prod)
+AI-powered language learning application with interactive conversational features.
+
+**Tech Stack:** `GenAI` `NLP` `Full Stack`
+
+</td>
+</tr>
+</table>
+
+### 🧠 Machine Learning & Deep Learning Projects
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🎬 [IMDB Sentiment Analysis](https://github.com/Harsh015raut/IMDB-RNN-Sentiment-Analysis)
+RNN-based sentiment classifier achieving **97.11% accuracy** on IMDB reviews.
+
+**Tech Stack:** `RNN` `LSTM` `TensorFlow` `NLP`
+
+**Highlight:** 🏆 97.11% Accuracy
+
+</td>
+<td width="50%">
+
+#### 🏦 [Bank Churn Predictor](https://github.com/Harsh015raut/Bank-Churn-Predictor)
+Customer retention prediction model helping banks identify at-risk customers.
+
+**Tech Stack:** `Scikit-Learn` `XGBoost` `Pandas`
+
+**Use Case:** Customer Retention Strategy
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 💎 [Diamond Price Prediction](https://github.com/Harsh015raut/DiamondPricePrediction)
+Regression model for accurate diamond pricing based on multiple features.
+
+**Tech Stack:** `Regression` `Feature Engineering` `Flask`
+
+**Application:** E-commerce Pricing
+
+</td>
+<td width="50%">
+
+#### 💳 [Credit Score Classifier](https://github.com/Harsh015raut/-Credit-Score-Classifier)
+Multi-class classification system for credit risk assessment.
+
+**Tech Stack:** `Classification` `Ensemble Methods` `Data Viz`
+
+**Impact:** Financial Risk Management
+
+</td>
+</tr>
+</table>
+
+### 📚 Learning & Tutorial Repositories
+
+<div align="center">
+
+[![PyTorch Tutorials](https://img.shields.io/badge/📘_PyTorch_Tutorials-Deep_Learning-EE4C2C?style=for-the-badge)](https://github.com/Harsh015raut/Pytorch-Tutorials)
+[![ANN Practicals](https://img.shields.io/badge/🧪_ANN_Practicals-Neural_Networks-00D9FF?style=for-the-badge)](https://github.com/Harsh015raut/ANN-Practicals)
+[![Feature Engineering](https://img.shields.io/badge/⚙️_Feature_Engineering-ML_Techniques-6366F1?style=for-the-badge)](https://github.com/Harsh015raut/Feature-Engineering)
+
+</div>
 
 ---
 
-## 🌟 Fun Facts About Me
+## 🎓 Currently Learning
 
-- 📊 Most productive debugging data at 2 AM with lo-fi beats
-- ☕ Fueled by strong coffee and curiosity about AI breakthroughs
-- 🎮 Gaming enthusiast who enjoys puzzle-solving (translates well to debugging!)
-- 📚 Always learning - believing that data science is a never-ending journey
-- 🎵 Believe in work-life balance and creative thinking
-- 🚀 Data science since 2023, but feels like I've explored a decade of knowledge!
+<div align="center">
 
----
+| 🔥 Technology | 📊 Progress | 🎯 Focus Area |
+|--------------|-------------|---------------|
+| **Advanced RAG Architectures** | ![](https://progress-bar.dev/85/?width=120) | Retrieval-Augmented Generation |
+| **Multi-Agent Systems** | ![](https://progress-bar.dev/75/?width=120) | LangGraph & Orchestration |
+| **LLM Fine-Tuning** | ![](https://progress-bar.dev/70/?width=120) | Domain-Specific Models |
+| **MLOps & Deployment** | ![](https://progress-bar.dev/80/?width=120) | Production AI Systems |
 
-## 💬 Philosophy & Mindset
-
-> **"The best part of data science is the story it tells. Every dataset has a story waiting to be discovered, and every model is a step towards understanding the world better."**
-
-- 🎯 **Problem-first approach:** Every analysis starts with a clear question
-- 🔄 **Continuous learning:** AI and ML evolve rapidly; staying updated is non-negotiable
-- 🤝 **Collaborative mindset:** The best solutions come from diverse perspectives
-- 📊 **Data-driven decisions:** Intuition + data = powerful insights
+</div>
 
 ---
 
-## 🛠️ Notable Projects
+## 📈 GitHub Statistics
 
-### **GenAI & LLM Projects**
-- Building intelligent chatbots with RAG systems
-- Fine-tuning LLMs for domain-specific tasks
-- Creating AI agents for automated workflows
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Harsh015raut&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh015raut&theme=tokyonight&hide_border=true" />
 
-### **Deep Learning Projects**
-- Computer vision applications using CNNs
-- Sequence modeling with transformers
-- Image classification and object detection
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh015raut&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-### **NLP Projects**
-- Sentiment analysis and emotion detection
-- Text classification and categorization
-- Named entity recognition systems
+</div>
 
-### **Data Science & ML**
-- Predictive modeling and forecasting
-- Clustering and dimensionality reduction
-- Feature engineering and model optimization
+---
+
+## 🏆 Achievements & Impact
+
+<div align="center">
+
+| 🎯 Metric | 📊 Value | 💡 Details |
+|-----------|----------|------------|
+| **GenAI Projects** | 5+ | Production-ready applications |
+| **ML Models** | 10+ | Deployed and documented |
+| **Tutorial Repos** | 3+ | Community learning resources |
+| **Model Accuracy** | 97%+ | Sentiment analysis benchmark |
+
+</div>
+
+---
+
+## 💼 Open for Collaboration
+
+I'm always excited to collaborate on:
+
+- 🚀 **Generative AI applications** and LLM-based solutions
+- 📊 **Data Science projects** with real-world impact
+- 🔬 **Research** in NLP and Deep Learning
+- 💡 **Open-source** AI/ML tools and libraries
 
 ---
 
 ## 📫 Let's Connect!
 
-I'm always excited to collaborate on projects that push the boundaries of what's possible with data and AI. Whether it's a groundbreaking AI project, a complex machine learning challenge, or an innovative GenAI application—I'm here for it!
+<div align="center">
 
-[![Email](https://img.shields.io/badge/Email-harsh015raut%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harsh015raut@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harsh015raut)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+**💌 Reach out for collaborations, opportunities, or just to talk about AI!**
 
----
+[![Email](https://img.shields.io/badge/📧_Email-harsh015raut%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harsh015raut@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-raut)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_my_website-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
-## 🎁 My Commitment to Open Source
-
-Every star ⭐, follow 👥, and collaboration helps me stay motivated to create better resources and solutions for the community! Whether it's sharing insights through projects, contributing to open-source initiatives, or mentoring aspiring data scientists—I'm committed to giving back.
-
----
-
-## ⚡ Quick Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harsh015raut&theme=dark)
+</div>
 
 ---
 
 <div align="center">
 
-**🚀 Thanks for visiting my digital space! Let's shape the future of AI and Data Science together! 🤖✨**
+### 💭 My Philosophy
 
-*Last updated: October 2024*
+> *"Data tells stories, AI brings them to life"*
+
+> *"Every model is a learning opportunity"*
+
+> *"Innovation happens at the intersection of data and creativity"*
+
+---
+
+### ⚡ Fun Facts
+
+- 🌙 Most productive during late-night coding sessions
+- ☕ Powered by coffee and curiosity
+- 📚 Always learning, always evolving
+- 🎯 Believe in building AI that empowers people
+- 🔥 Passionate about making AI accessible to everyone
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=Harsh015raut&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+**🌟 "Building the future, one model at a time!" 🚀**
+
+</div>
+
+---
+
+<div align="center">
+  
+*Last Updated: October 2025*
+
+**⭐ If you find my work interesting, consider giving my repos a star! It fuels my passion for innovation!**
 
 </div>
