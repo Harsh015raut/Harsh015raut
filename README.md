@@ -74,14 +74,14 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white)
 
-**📊 Data Viz & Analytics**
+** Data Viz & Analytics**
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![EDA](https://img.shields.io/badge/EDA%20%26%20Feature%20Engineering-8E44AD?style=flat-square)
 
-**☁️ Infra & MLOps**
+** Infra & MLOps**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
@@ -94,7 +94,7 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -114,7 +114,7 @@
 
 ---
 
-### 🌱 Currently exploring
+###  Currently exploring
 
 - Advanced **RAG architectures** & retrieval quality
 - **Multi-agent orchestration** with LangGraph
@@ -123,7 +123,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
 
